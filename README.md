@@ -28,7 +28,7 @@ Para usar o Sistema de Gerenciamento de Processos você precisará ter um comput
 
 ## LICENSE
 
-Copyright (C) 2012 Renan Gomes Barreto
+Copyright (C) 2013 Renan Gomes Barreto
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
