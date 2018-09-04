@@ -68,7 +68,7 @@ public class JanelaSobre extends javax.swing.JFrame {
 
         jLabel11.setText("email {at} software {dot} com {dot} vc");
 
-        jLabel12.setText("(83) 8734.0000 / 87350.000");
+        jLabel12.setText("(83) 98734.0000 / 98735.0000");
 
         jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/vc/com/software/gerenciadordeprocessos/img/delete16.png"))); // NOI18N
         jButton1.setToolTipText("Fechar");
