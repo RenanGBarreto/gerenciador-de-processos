@@ -1,14 +1,9 @@
 ﻿![Gerenciador de Processos](https://github.com/RenanGBarreto/gerenciador-de-processos/raw/master/icon.png)
 
-# Gerenciador de Processos: Sistema para o cadastro e organização de processos físicos 
+# Gerenciador de Processos: Sistema para o cadastro e organização de processos físicos (Process Manager: System for registering and organizing physical processes boxes)
 
-*English:* Process Manager: System for registering and organizing physical processes boxes
 
-Software escrito na linguagem Java que é capaz de organizar uma coleção de processos físicos em caixas numeradas.
-
----
-
-Software written in Java language that is capable of organizing a collection of physical processes in numbered boxes.
+Software escrito na linguagem Java que é capaz de organizar uma coleção de processos físicos em caixas numeradas. (Software written in Java language that is capable of organizing a collection of physical processes in numbered boxes.)
 
 ## DATA DE DESENVOLVIMENTO
 Nov/2013 - Nov/2013
