@@ -8,7 +8,7 @@ Software escrito na linguagem Java que é capaz de organizar uma coleção de pr
 
 Software written in Java language that is capable of organizing a collection of physical processes in numbered boxes.
 
-## DATA DE DESENVOLVIMENTO / DEVELOPMENT DATE
+## DATA DE DESENVOLVIMENTO
 Nov/2013 - Nov/2013
 
 ## SCREENSHOTS
@@ -18,7 +18,7 @@ Nov/2013 - Nov/2013
 
 ## REQUERIMENTOS DO SISTEMA
 
-Para usar o Fluxo você precisará ter um computador pelo menos as caracteristicas abaixo:
+Para usar o Sistema de Gerenciamento de Processos você precisará ter um computador pelo menos as caracteristicas abaixo:
 * Sistema Operacional Windows (Xp, Vista ou Seven), Linux
    (Compatível com pacotes DEB ou RPM) ou qualquer outro Sistema Operacional capaz
    de executar aplicativos JAVA™;
