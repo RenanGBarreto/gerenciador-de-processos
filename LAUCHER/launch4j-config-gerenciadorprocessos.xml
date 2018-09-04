@@ -1,0 +1,48 @@
+<launch4jConfig>
+  <dontWrapJar>true</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>Gerenciador_de_Processos.jar</jar>
+  <outfile>D:\Dropbox\Projetos\Gerenciador de Processos\dist\gerenciadordeprocessos.exe</outfile>
+  <errTitle>Java not found! (O java não foi encontrado!)</errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl>http://java.com/</supportUrl>
+  <stayAlive>false</stayAlive>
+  <manifest>D:\Dropbox\Projetos\Gerenciador de Processos\LAUCHER\gerenciadorprocessos.exe.manifest</manifest>
+  <icon>D:\Dropbox\Projetos\Gerenciador de Processos\gerenciadordeprocessos.ico</icon>
+  <singleInstance>
+    <mutexName>gerenciadordeprocessos</mutexName>
+    <windowTitle>Gerenciador de Processos</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>jre7</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <initialHeapSize>64</initialHeapSize>
+    <maxHeapSize>512</maxHeapSize>
+    <opt>-Djava.security.policy=policy.all -Dfile.encoding=UTF8</opt>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0</txtFileVersion>
+    <fileDescription>Gerenciador de Processos</fileDescription>
+    <copyright>Gerenciador de Processos</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0</txtProductVersion>
+    <productName>Gerenciador de Processos</productName>
+    <companyName>Gerenciador de Processos</companyName>
+    <internalName>Gerenciador de Processos</internalName>
+    <originalFilename>gerenciadordeprocessos.exe</originalFilename>
+  </versionInfo>
+  <messages>
+    <startupErr>Um erro ocorreu ao tentar abrir o aplicativo. (An error occurred while starting the application.)</startupErr>
+    <bundledJreErr>Esse aplicativo usa o JAVA porém o mesmo está inválido. (This application was configured to use a bundled JRE but the runtime is missing.)</bundledJreErr>
+    <jreVersionErr>Esse aplicativo precisa que o JAVA esteja instalado. (This application requires a JRE)</jreVersionErr>
+    <launcherErr>O registro refere-se a um abiente java inexistente. Tente reinstalar o JAVA. (The registry refers to a nonexistent Java installation or the runtime is corrupted.)</launcherErr>
+    <instanceAlreadyExistsMsg>Uma outra janela do programa já está aberta. (An application instance is already running.)</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
